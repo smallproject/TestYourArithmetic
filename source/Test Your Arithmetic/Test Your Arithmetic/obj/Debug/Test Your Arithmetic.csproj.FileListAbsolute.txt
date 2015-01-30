@@ -1,0 +1,18 @@
+c:\users\jasper.villas\documents\visual studio 2013\Projects\Test Your Arithmetic\Test Your Arithmetic\bin\Debug\Test Your Arithmetic.exe.config
+c:\users\jasper.villas\documents\visual studio 2013\Projects\Test Your Arithmetic\Test Your Arithmetic\bin\Debug\Test Your Arithmetic.exe
+c:\users\jasper.villas\documents\visual studio 2013\Projects\Test Your Arithmetic\Test Your Arithmetic\bin\Debug\Test Your Arithmetic.pdb
+c:\users\jasper.villas\documents\visual studio 2013\Projects\Test Your Arithmetic\Test Your Arithmetic\obj\Debug\Test Your Arithmetic.csprojResolveAssemblyReference.cache
+c:\users\jasper.villas\documents\visual studio 2013\Projects\Test Your Arithmetic\Test Your Arithmetic\obj\Debug\Test_Your_Arithmetic.Form1.resources
+c:\users\jasper.villas\documents\visual studio 2013\Projects\Test Your Arithmetic\Test Your Arithmetic\obj\Debug\Test_Your_Arithmetic.Properties.Resources.resources
+c:\users\jasper.villas\documents\visual studio 2013\Projects\Test Your Arithmetic\Test Your Arithmetic\obj\Debug\Test Your Arithmetic.csproj.GenerateResource.Cache
+c:\users\jasper.villas\documents\visual studio 2013\Projects\Test Your Arithmetic\Test Your Arithmetic\obj\Debug\Test Your Arithmetic.exe
+c:\users\jasper.villas\documents\visual studio 2013\Projects\Test Your Arithmetic\Test Your Arithmetic\obj\Debug\Test Your Arithmetic.pdb
+C:\git_root\TestYourArithmetic\source\Test Your Arithmetic\Test Your Arithmetic\bin\Debug\Test Your Arithmetic.exe.config
+C:\git_root\TestYourArithmetic\source\Test Your Arithmetic\Test Your Arithmetic\obj\Debug\Test Your Arithmetic.exe
+C:\git_root\TestYourArithmetic\source\Test Your Arithmetic\Test Your Arithmetic\obj\Debug\Test Your Arithmetic.pdb
+C:\git_root\TestYourArithmetic\source\Test Your Arithmetic\Test Your Arithmetic\bin\Debug\Test Your Arithmetic.exe
+C:\git_root\TestYourArithmetic\source\Test Your Arithmetic\Test Your Arithmetic\bin\Debug\Test Your Arithmetic.pdb
+C:\git_root\TestYourArithmetic\source\Test Your Arithmetic\Test Your Arithmetic\obj\Debug\Test Your Arithmetic.csprojResolveAssemblyReference.cache
+C:\git_root\TestYourArithmetic\source\Test Your Arithmetic\Test Your Arithmetic\obj\Debug\Test_Your_Arithmetic.Properties.Resources.resources
+C:\git_root\TestYourArithmetic\source\Test Your Arithmetic\Test Your Arithmetic\obj\Debug\Test Your Arithmetic.csproj.GenerateResource.Cache
+C:\git_root\TestYourArithmetic\source\Test Your Arithmetic\Test Your Arithmetic\obj\Debug\Test_Your_Arithmetic.formmain.resources
