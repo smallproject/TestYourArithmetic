@@ -41,6 +41,7 @@ namespace Test_Your_Arithmetic
             lbldate.Text = DateTime.Now.ToLongDateString();
             lbltime.Text = DateTime.Now.ToLongTimeString();
 
+            difficulty = new difficulty_level(level, score);
             level_easy();
         }
 
@@ -52,9 +53,10 @@ namespace Test_Your_Arithmetic
         private void level_easy()
         {
             Random rand = new Random();
+            
             onenumber = rand.Next(difficulty.min, difficulty.max);
             twonumber = rand.Next(difficulty.min, difficulty.max);
-
+            
             answer = onenumber + twonumber;
 
             lblquestion.Text = string.Format("{0} + {1}", onenumber, twonumber);
@@ -83,7 +85,7 @@ namespace Test_Your_Arithmetic
 
         private void btnsend_Click(object sender, EventArgs e)
         {
-            //difficulty = new difficulty_level(level, score);
+            difficulty = new difficulty_level(level, score);
             double sent;
             double.TryParse(txtbanswer.Text, out sent);
             if (sent == answer)
