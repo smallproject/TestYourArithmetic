@@ -106,5 +106,18 @@ namespace Test_Your_Arithmetic
                 btnsend_Click(null, null);
             }
         }
+
+        private void txtbanswer_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (txtbanswer.Text.Equals("0"))
+            {
+                txtbanswer.Text = "";
+            }
+        }
+
+        private void formmain_KeyDown(object sender, KeyEventArgs e)
+        {
+
+        }
     }
 }

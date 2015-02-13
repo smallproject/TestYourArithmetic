@@ -76,6 +76,7 @@
             this.txtbanswer.Size = new System.Drawing.Size(100, 23);
             this.txtbanswer.TabIndex = 3;
             this.txtbanswer.Text = "txtbanswer";
+            this.txtbanswer.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtbanswer_KeyDown);
             this.txtbanswer.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtbanswer_KeyPress);
             // 
             // lblanswer
@@ -138,6 +139,7 @@
             this.MaximizeBox = false;
             this.Name = "formmain";
             this.Text = "formmain";
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.formmain_KeyDown);
             this.ResumeLayout(false);
             this.PerformLayout();
 
